@@ -1,0 +1,17 @@
+{
+  "name": "Historia",
+  "version": "1.0.0",
+  "description": "Quick Launch App for Historians",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "iconLg.png"
+  },
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "browser_style": true
+  }
+}
