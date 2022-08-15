@@ -1,13 +1,13 @@
 {
-  "name": "Historia",
-  "version": "1.0.0",
+  "name": "Historia Quick Launcher",
+  "version": "1.0.1",
   "description": "Quick Launch App for Historians",
   "manifest_version": 2,
   "icons": {
-    "16": "icon_16px.png",
-    "32": "icon_32px.png",
-    "48": "icon_48px.png",
-    "128": "icon_128px.png"
+    "16": "icons/icon_16px.png",
+    "32": "icons/icon_32px.png",
+    "48": "icons/icon_48px.png",
+    "128": "icons/icon_128px.png"
   },
 
   "browser_action": {
@@ -15,4 +15,5 @@
     "browser_style": true
   }
 }
+
 
