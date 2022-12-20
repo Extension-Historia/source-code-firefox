@@ -2,11 +2,14 @@ $(document).ready(function () {
     $('#example').DataTable({
         paging: false,
         ordering: false,
-        info: false,
+        info: true,
   			"language": {
     					"search": "",
-              "searchPlaceholder": "Search..."
+                        "searchPlaceholder": "Search...",
+                        "info": "Showing _TOTAL_ from _MAX_ entries",
+                        "infoFiltered": ""
   			},
+        "sDom": '<"top"<"actions">lfpi<"clear">><"clear">rt<"bottom">'
 
     });
 });
