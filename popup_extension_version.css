@@ -10,12 +10,9 @@
             overflow-y: scroll;
           }
 
-
-
           table.dataTable tfoot th {
             border-top: 0;
           }
-
 
           td {
             background: transparent;
@@ -25,8 +22,6 @@
             width: 300px;
             font-size: large;
           }
-
-
 
           a:link {
             color: black;
@@ -56,11 +51,11 @@
             font-size: medium;
           }
 
-
-
-          info {
+          h1 {
             font-size: x-small;
             margin-top: 10px;
+            text-align: right;
+            font-weight: inherit;
           }
 
           tag-grey-question {
@@ -73,10 +68,13 @@
           }
 
           /* datatables info color */
-          div.dataTables_info {
-            color: #FE6700 !important;
-            font-size: medium !important;
-            font-family: arial !important;
+          h2 {
+            color: #FE6700;
+            font-size: medium;
+            font-family: arial;
+            font-weight: inherit;
+            text-align: center;
+            margin-bottom: 0px;
           }
 
           /* search box to the left */
