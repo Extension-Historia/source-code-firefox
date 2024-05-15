@@ -13,7 +13,7 @@ The add-on has pre-collected links of websites that might help the research of h
 
 2.) Every link is provided with the website name and a short description of what information the website contains (BETA: The descriptions of the new links have not been included yet).
 
-3.) By clicking the box with the name of the website, a new tab will open with the respective webpage.
+3.) By clicking the box with the name of the website, a new tab will open with the respective web page.
 
 4.) By clicking the information about the developer, version and help sign, a new tab will open and you will be redirected to the project documentation page.
 
@@ -21,7 +21,7 @@ The add-on has pre-collected links of websites that might help the research of h
 ### II. CAN I MAKE SUGGESTIONS?
 
 Yes, you can.
-The developer is accepting further links in any language at any time for any type of webpage related to the research of history. Every contribution to the project will be noted on the project page with the name of the contributor as well as the number of contributions made – if not otherwise desired.
+The developer is accepting further links in any language at any time for any type of web page related to the research of history. Every contribution to the project will be noted on the project page with the name of the contributor as well as the number of contributions made – if not otherwise desired.
 
 In order to make suggestions, please leave a comment here, on the Github page or write an e-mail to the developer. You are also free to make pull-requests or send in issues on Github.
 
